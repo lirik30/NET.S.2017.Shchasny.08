@@ -1,0 +1,7 @@
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.08\CustomerLogic\bin\Debug\CustomerLogic.dll
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.08\CustomerLogic\bin\Debug\CustomerLogic.pdb
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.08\CustomerLogic\obj\Debug\CustomerLogic.csprojResolveAssemblyReference.cache
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.08\CustomerLogic\obj\Debug\CustomerLogic.dll
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.08\CustomerLogic\obj\Debug\CustomerLogic.pdb
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.08\CustomerLogic\bin\Debug\CustomerLogic.dll.config
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.08\CustomerLogic\bin\Debug\app.config

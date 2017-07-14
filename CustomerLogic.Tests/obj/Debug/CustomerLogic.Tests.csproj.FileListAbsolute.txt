@@ -1,0 +1,12 @@
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.08\CustomerLogic.Tests\bin\Debug\CustomerLogic.Tests.dll
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.08\CustomerLogic.Tests\bin\Debug\CustomerLogic.Tests.pdb
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.08\CustomerLogic.Tests\bin\Debug\CustomerLogic.dll
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.08\CustomerLogic.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.08\CustomerLogic.Tests\bin\Debug\CustomerLogic.pdb
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.08\CustomerLogic.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.08\CustomerLogic.Tests\obj\Debug\CustomerLogic.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.08\CustomerLogic.Tests\obj\Debug\CustomerLogic.Tests.dll
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.08\CustomerLogic.Tests\obj\Debug\CustomerLogic.Tests.pdb
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.08\CustomerLogic.Tests\bin\Debug\app.config
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.08\CustomerLogic.Tests\bin\Debug\CustomerLogic.dll.config
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.08\CustomerLogic.Tests\bin\Debug\CustomerLogic.Tests.dll.config
