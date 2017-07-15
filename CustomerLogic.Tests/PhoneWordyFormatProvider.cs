@@ -12,10 +12,11 @@ namespace CustomerLogic.Tests
         {
             if (!(arg is Customer) || format.ToUpper() != "W")
                 return IfOtherFormat(format, arg);
+
             var customer = arg as Customer;
 
-            StringBuilder result = new StringBuilder($"{customer.Name} pnone number: ");
-            foreach (char c in customer.ContactPhone)
+            var result = new StringBuilder($"{customer.Name} phone number:");
+            foreach (var c in customer.ContactPhone)
             {
                 int i = "0123456789+".IndexOf(c);
                 if (i == -1) continue;
